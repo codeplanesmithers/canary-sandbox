@@ -1,0 +1,1 @@
+{"name":"canary-sandbox","private":true,"scripts":{"test":"node --check video-demo-server.mjs"}}
